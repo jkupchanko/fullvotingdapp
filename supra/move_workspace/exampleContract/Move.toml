@@ -1,0 +1,16 @@
+[package]
+name = "exampleContract"
+version = "1.0.0"
+authors = []
+
+[addresses]
+owner = "0x4ed2f8a6544dc70c2f99d4ea4ee43ea7d566236b2709a4e745e3e0f6ac512217"
+voter = "0x558f36dfc58a792b00243f047a7287661fe6e7ec994d5f03c9dc72cd25f978df"
+[dev-addresses]
+
+[dependencies.SupraFramework]
+git = "https://github.com/Entropy-Foundation/aptos-core.git"
+rev = "dev"
+subdir = "aptos-move/framework/supra-framework"
+
+[dev-dependencies]

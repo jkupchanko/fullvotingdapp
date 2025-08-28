@@ -1,0 +1,26 @@
+{
+  "active": "voter",
+  "list": {
+    "voter": {
+      "ed25519_public_key": "669a381658640e21b1ee0e84e028e546572637bfa0fbdf25d8bcc7a49fabb61a",
+      "account_address": "558f36dfc58a792b00243f047a7287661fe6e7ec994d5f03c9dc72cd25f978df",
+      "rpc_url": "http://localhost:27000/",
+      "faucet_url": "http://localhost:27001/",
+      "chain_id": 255
+    },
+    "john": {
+      "ed25519_public_key": "abe9c5675fb612e9f324b82e6344cdb08b2ea58b175118d22d34035580248cb3",
+      "account_address": "0cffbc52a4f2de3aaae1051d21a8f0a32260ad6d1967064ce9781acf6de24d22",
+      "rpc_url": "http://localhost:27000/",
+      "faucet_url": "http://localhost:27001/",
+      "chain_id": 255
+    },
+    "owner": {
+      "ed25519_public_key": "c891532ad0a9dc2ee7a6a0456e6cbd48f5c738372be575cb7b348610c6382587",
+      "account_address": "4ed2f8a6544dc70c2f99d4ea4ee43ea7d566236b2709a4e745e3e0f6ac512217",
+      "rpc_url": "http://localhost:27000/",
+      "faucet_url": "http://localhost:27001/",
+      "chain_id": 255
+    }
+  }
+}
